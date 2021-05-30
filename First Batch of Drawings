@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+<title>Nice tech guy's drawings</title>
+<style>
+.white{
+   color: white;
+}
+</style>
+<center><h1 class = "white">My cool drawings</h1></center>
+</head>
+<body>
+<img src="imagename.extension"></img>
+</body>
+</html>
